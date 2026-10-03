@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "firmware": "1.7-diag1",
+  "id": "S0000000000000001",
+  "state": "open",
+  "sport": "Foilscoot",
+  "setup": "DATI SINTETICI · test del player",
+  "start_mono_us": 10000250,
+  "start_utc_ms": 0
+}

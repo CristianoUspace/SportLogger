@@ -1,0 +1,13 @@
+{
+  "id": "S0000000000000001",
+  "state": "closed",
+  "reason": "manual",
+  "start_mono_us": 10000250,
+  "end_mono_us": 40264250,
+  "duration_ms": 30264,
+  "start_utc_ms": 1791021600000,
+  "end_utc_ms": 1791021630264,
+  "rows": 1501,
+  "csv_sync_ok": true,
+  "triggers_lost": 0
+}
